@@ -1,0 +1,27 @@
+
+{
+    "all":[
+
+        {
+            "img":"img/p1.png.webp",
+            "name":"lorem ipsum1",
+            "info":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, consequatur"
+        },
+        {
+            "img":"img/p2.png.webp",
+            "name":"lorem ipsum2",
+            "info":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, consequatur"
+        },
+        {
+            "img":"img/p3.png.webp",
+            "name":"lorem ipsum3",
+            "info":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, consequatur"
+        },
+        {
+            "img":"img/p4.png.webp",
+            "name":"lorem ipsum4",
+            "info":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, consequatur"
+        }
+    ]
+
+}
